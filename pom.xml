@@ -14,7 +14,10 @@
       <module>cloud-eureka-server7001</module>
       <module>cloud-eureka-server7002</module>
     <module>cloud-provider-payment8002</module>
+<<<<<<< HEAD
       <module>cloud-provider-payment8004</module>
+=======
+>>>>>>> origin/main
   </modules>
   <packaging>pom</packaging>
 
