@@ -6,6 +6,7 @@
         <artifactId>cloud2020</artifactId>
         <groupId>com.zj.springcloud</groupId>
         <version>1.0-SNAPSHOT</version>
+
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -76,5 +77,4 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
     </dependencies>
-
 </project>
